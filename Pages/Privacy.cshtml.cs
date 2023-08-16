@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace kebaya4dedge.Pages;
+namespace rtplive.Pages;
 
 public class PrivacyModel : PageModel
 {
